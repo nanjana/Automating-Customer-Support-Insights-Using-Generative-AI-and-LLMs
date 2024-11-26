@@ -1,4 +1,4 @@
-# Automating-Customer-Support-Insights-Using-Generative-AI-and-LLMs
+# Automating Customer-Support-Insights-Using-Generative-AI-and-LLMs
 
 Objective: Developed a solution using OpenAI's GPT model to analyze customer support tickets, identify trends, and automate response generation, improving customer query resolution time by 35%.
 
@@ -13,4 +13,4 @@ Key Contributions:
 Impact:
 
 1. Enabled faster and more consistent responses to customers, resulting in a 25% increase in customer satisfaction scores.
-2. Reduced manual workload for support agents by automating repetitive tasks and providing actionable insights to management.
+2. Reduced manual workload for support agents by automating repetitive tasks and providing actionable management insights.
