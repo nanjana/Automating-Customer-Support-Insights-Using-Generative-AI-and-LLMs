@@ -12,5 +12,5 @@ Key Contributions:
 
 Impact:
 
-Enabled faster and more consistent responses to customers, resulting in a 25% increase in customer satisfaction scores.
-Reduced manual workload for support agents by automating repetitive tasks and providing actionable insights to management.
+1. Enabled faster and more consistent responses to customers, resulting in a 25% increase in customer satisfaction scores.
+2. Reduced manual workload for support agents by automating repetitive tasks and providing actionable insights to management.
